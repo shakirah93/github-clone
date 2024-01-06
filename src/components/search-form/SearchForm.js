@@ -1,4 +1,4 @@
-import "./SearchInput.scss";
+import "./SearchForm.scss";
 
 export default function SearchInput(){
     return(
